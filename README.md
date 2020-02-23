@@ -15,6 +15,7 @@ You can find extensive documentation on these tools, in particular staticcheck, 
 
 ## Installation
 
+
 ### Releases
 
 It is recommended that you run released versions of the tools. These
